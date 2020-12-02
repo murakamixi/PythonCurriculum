@@ -1,0 +1,1 @@
+_karte_tracker=window.karte_tracker_names&&0<window.karte_tracker_names.length?window[window.karte_tracker_names[0]]:window.tracker,_karte_tracker.getItemInfo(),_karte_tracker.setContextModeSettings({ng_urls:["https://master.tech-camp.in/me","https://master.tech-camp.in/"]},"5f2a132a3f891200111ca38f"),_karte_tracker.trackActionMode(),_karte_tracker.trackFlowEvents(undefined);
